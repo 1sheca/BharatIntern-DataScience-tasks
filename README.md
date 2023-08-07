@@ -76,6 +76,6 @@ If you have any further questions or would like to discuss any aspect of my inte
 
 Thank you for the valuable learning experience.
 
-Sincerely
+Sincerely,
 [Vanshika Sharma]
 Data Science Intern
