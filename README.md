@@ -1,4 +1,3 @@
-# BharatIntern-DataScience-tasks
 # Data Science Internship Readme
 
 Welcome to the readme for my Data Science internship experience! This document outlines the tasks and projects I have worked on during my internship, highlighting my contributions and the skills I have gained. If you have any questions or need further clarification, please feel free to reach out to me.
